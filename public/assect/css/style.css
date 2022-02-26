@@ -1,0 +1,22 @@
+.loginDiv .left-col{
+    background-image: url('/assect/image/login.jpg');
+}
+.CareerDiv .left-col{
+    background-image: url('https://imgs.bharatmatrimony.com/bmimgs/login/login-otp-banner.png');
+}
+.CareerDiv .right-col{
+    background-color: #cee1ff;;
+}
+.loginDiv .right-col{
+    background-color: #cee1ff;
+    /* border-radius: 20,20px,20px,0px; */
+}
+.left-image{
+    width: 45vh;
+}
+.column{
+    border-radius: 20px;
+}
+.errorolor{
+    color: red;
+}
